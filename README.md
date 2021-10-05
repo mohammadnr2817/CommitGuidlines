@@ -30,6 +30,7 @@ Fix Appbar.kt alignment
 | Complete        | ✅
 | Create          | 📝
 | Fix             | 🔨
+| Implement       | ⚙️
 | Merge           | 🚧
 | Organize        | 📁
 | Refactor        | 🚀
