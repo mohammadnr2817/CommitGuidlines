@@ -28,6 +28,7 @@ Fix Appbar.kt alignment
 | --------------- | ------------------------------------------------------------------ |
 | Add             | 🧾
 | Complete        | ✅
+| Comment         | 💬
 | Create          | 📝
 | Fix             | 🔨
 | Implement       | ⚙️
@@ -35,6 +36,7 @@ Fix Appbar.kt alignment
 | Organize        | 📁
 | Refactor        | 🚀
 | Remove          | 🗑
+| Save            | 💾
 | Update          | 📌
 | Use             | 💡
 
