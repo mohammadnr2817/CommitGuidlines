@@ -4,7 +4,8 @@
 > - Use simple present tense
 > - Capitalize only the first word
 > - For details, use the full name of the file
-> - Less than 80 characters should be used
+> - Use comma "," to seperate different changes
+> - Less than 50 characters should be used
 > - Do not use dots at the end of the message
 > - The prefixes in the prefix table are preferable
 > - The first character can be an emoji from the emoji table [optional]
@@ -27,17 +28,24 @@ Fix Appbar.kt alignment
 | prefix          | emoji                                                              |
 | --------------- | ------------------------------------------------------------------ |
 | Add             | 🧾
+| Assign          | 🙏
 | Complete        | ✅
 | Comment         | 💬
 | Create          | 📝
+| Deprecate       | ☠️
+| Disable         | ❌
 | Fix             | 🔨
 | Implement       | ⚙️
+| Make            | 🔧
 | Merge           | 🚧
 | Organize        | 📁
 | Refactor        | 🚀
+| Reduce          | ♻️
 | Remove          | 🗑
 | Save            | 💾
+| Test            | ✔️
 | Update          | 📌
 | Use             | 💡
+| Write           | ✏️
 
 ### Your contributions welcome.
