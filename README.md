@@ -31,6 +31,7 @@ Fix Appbar.kt alignment
 | Assign          | 🙏
 | Complete        | ✅
 | Comment         | 💬
+| Config          | 🛠️
 | Create          | 📝
 | Deprecate       | ☠️
 | Disable         | ❌
