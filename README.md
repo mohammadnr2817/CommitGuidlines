@@ -2,12 +2,13 @@
 
 ### Message rules
 > - Use simple present tense
+> - Write comments when needed
 > - Capitalize only the first word
-> - For details, use the full name of the file
-> - Use comma "," to seperate different changes
 > - Less than 50 characters should be used
 > - Do not use dots at the end of the message
+> - Use comma "," to seperate different changes
 > - The prefixes in the prefix table are preferable
+> - For details, use the full name of the file [optional]
 > - The first character can be an emoji from the emoji table [optional]
 
 ## Here are a few examples
