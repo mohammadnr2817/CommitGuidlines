@@ -47,6 +47,7 @@ Fix Appbar.kt alignment
 | Reduce          | ♻️
 | Remove          | 🗑
 | Save            | 💾
+| Set             | 
 | Test            | ✔️
 | Update          | 📌
 | Use             | 💡
